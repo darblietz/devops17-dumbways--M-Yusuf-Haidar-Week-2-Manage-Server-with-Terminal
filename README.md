@@ -15,15 +15,16 @@
  11. ``$ echo "Reichmarschall! >> file5`` untuk mencetak kata "Reichmarschall!" di file5<br/><br/>![11  echo](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/1e61855a-8b13-4349-b57d-b57ff3566e2e)<br/><br/>
  12. ``$ echo "Capital!" > file5`` fungsinya untuk mereplace semua data di file5.<br/><br/>![12  echo](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/166f0084-5709-4e3c-812c-2ed288496b9a)<br/><br/>
  
-
- 
-
-
-
-
-
-
-
-
-
 #### 2. Penjelasan tool htop atau nmon
+- htop merupakan perintah untuk memonitoring sistem berupa memory, CPU,swap dan lain-lain.<br/><br/>![13  htop](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/46a250e4-d514-4a64-a40d-9b457351b5bd)<br/><br/>
+#### Keterangan :
+- **CPU** adalah berapa jumlah core yang kita miliki.
+- **Mem** adalah total penggunaan memory.
+- **Swp** adalah Memory cadangan.
+- **Tasks** adalah aplikasi yang sedang berjalan di server.
+- **Load** average adalah rata-rata aplikasi yang berjalan.
+- **Uptime** adalah berapa lama server kita hidup.
+- **PID** adalah nomor proses id setiap proses yang berjalan di linux.
+- **VIRT** adalah memory yang terpakai.
+- **Command** adalah perintah apa yang sedang di jalankan.
+
