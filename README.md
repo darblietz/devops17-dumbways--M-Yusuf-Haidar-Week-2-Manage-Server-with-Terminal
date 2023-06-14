@@ -12,7 +12,7 @@
  8. ``$ sort (file-name)`` untuk mengurutkan berdasarkan ascending<br/><br/>![8  Sort](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/55aee661-ab7c-47d8-be8c-c53aaf51a86d)<br/><br/>
  9. ``$ sort -r (file-name)`` untuk mengurutkan secara reverse atau descending <br/><br/>![9  Sort -r](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/d0810781-67d2-42fb-9cd7-7f07181e31ae)<br/><br/>
  10. ``$ echo "Reichmarschall!!"`` digunakan untuk mencetak string / pesan dari hasil perintah lain.<br/><br/>![10  echo](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/7c275936-b608-4903-a698-f345bee5440d)<br/><br/>
- 11. ``$ echo "Reichmarschall! >> file5`` untuk mencetak kata "Reichmarschall!" di file3<br/><br/>![11  echo](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/1e61855a-8b13-4349-b57d-b57ff3566e2e)<br/><br/>
+ 11. ``$ echo "Reichmarschall! >> file5`` untuk mencetak kata "Reichmarschall!" di file5<br/><br/>![11  echo](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/1e61855a-8b13-4349-b57d-b57ff3566e2e)<br/><br/>
  12. ``$ echo "Capital!" > file5`` fungsinya untuk mereplace semua data di file5.<br/><br/>![12  echo](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-2-Manage-Terminal/assets/98991080/166f0084-5709-4e3c-812c-2ed288496b9a)<br/><br/>
  
 
